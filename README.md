@@ -1,19 +1,17 @@
-# Sql-Bascis
+Crating Company's DataBase
 
-Crating Comapny's Data Base
+Adding Different Keys
 
-Adding Diffrent Keys 
-
-Adding values in Table 
+Adding values in Table
 
 Deleting Tables
 
-Some Basic quaries
+Some Basic quarries
 
-Aggregate functions 
+Aggregate functions
 
 Wild Card
 
 Joints
 
-Subquaries(Nested quary)
+Subqueries(Nested query)
